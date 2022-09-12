@@ -3,7 +3,11 @@ class hello
                public static void main()
 	       {
 	               system.out.println(hello modf by")
+<<<<<<< HEAD
 	       }                              
+=======
+	       }
+>>>>>>> 5629d6666f71fcf065bcc50d420e6e2ef12219ea
 
 }	       
 	         	       
